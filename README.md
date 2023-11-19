@@ -2,4 +2,4 @@
 # первое занятие по git
 Hello locol
 
-gb_git_test2
+line conflict
